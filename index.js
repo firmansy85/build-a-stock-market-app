@@ -1,3 +1,5 @@
+//stock market portofolio app by joni playboy
+
 const express = require('express');
 const app = express();
 const exphbs = require('express-handlebars');
