@@ -1,4 +1,4 @@
-//stock market portofolio app by joni playboy
+//stock market portofolio app by joni playboy oye.com
 
 const express = require('express');
 const app = express();
